@@ -1,0 +1,4 @@
+Server: incoming connection from java.net.InetSocketAddress accepted.
+Server: waiting for message ...
+Error 404 - Seite konnte nicht gefunden werden.
+Page on url C:\Users\Micha\SoTe2\ReKo_Uebung02\src\Aufgabe3printed.
